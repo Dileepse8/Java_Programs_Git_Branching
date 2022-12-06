@@ -5,6 +5,7 @@ interface Shape {
 	int width = 5; // FInal&Static
 	int width1 = 10; // FInal&Static git practice not for use
 	String driver=null;
+	int abc=10;
 
 	void circle();
 
