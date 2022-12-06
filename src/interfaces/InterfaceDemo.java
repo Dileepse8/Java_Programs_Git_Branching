@@ -3,6 +3,7 @@ package interfaces;
 interface Shape {
 	int length = 10; // FInal&Static
 	int width = 5; // FInal&Static
+	int width1 = 10; // FInal&Static git practice not for use
 
 	void circle();
 
